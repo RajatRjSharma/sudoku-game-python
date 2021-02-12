@@ -1,2 +1,2 @@
 # sudokugame
-a python project on sudoku game using tkinter
+a python project on sudoku game using tkinter,numpy
